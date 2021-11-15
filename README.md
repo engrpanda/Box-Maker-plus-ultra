@@ -19,7 +19,7 @@ https://github.com/engrpanda/Box-Maker-plus-ultra/releases
 
 <img src="https://github.com/engrpanda/Box-Maker-plus-ultra/blob/main/pics/box2.png">
 
-# box 1
+# box 3
 
 <img src="https://github.com/engrpanda/Box-Maker-plus-ultra/blob/main/pics/box3.png">
 
